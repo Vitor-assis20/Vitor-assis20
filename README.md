@@ -4,7 +4,7 @@
 
 - 🇧🇷 I'm from Brazil.
 - 💻 Developer at [Dayback Energy](https://www.linkedin.com/company/daybackbr/). 
-- 🎓 I'm currently pursuing a specialization in Control and Automation Engineering at [UFSC-Fln](https://www.linkedin.com/school/ufsc/posts/?feedView=all)
+- 🎓 I'm currently pursuing a specialization in Control and Automation Engineering at [UFSC-FLN](https://www.linkedin.com/school/ufsc/posts/?feedView=all)
 - 📫 How to reach me: 
 
 
