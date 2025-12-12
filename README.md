@@ -20,7 +20,7 @@
 #### Skills
   <div>
     <img title="php" alt="php" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img title="js" alt="js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" />
+    <img title="javascript" alt="js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img title="bash" alt="bash" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img title="debian" alt="debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /> 
     <img title="ubuntu" alt="ubuntu" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
