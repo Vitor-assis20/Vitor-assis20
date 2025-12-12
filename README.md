@@ -44,7 +44,6 @@
   
    <div>   
      <img title="linux" alt="linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-     <img title="jenkins" alt="jenkins" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
      <img title="aws" alt="aws" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   </div>
   
@@ -55,8 +54,6 @@
   <div>
   <img title="python" alt="python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img title="pandas" alt="pandas" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img title="numpy" alt="numpy" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img title="scikit learn" alt="scikit learn" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   </div>
   
   
