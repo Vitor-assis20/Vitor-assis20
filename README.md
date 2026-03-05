@@ -6,10 +6,6 @@
 - 💻 Developer at [Costão do Santinho](https://www.linkedin.com/company/costao/posts/?feedView=all). 
 - 🎓 I'm currently pursuing a specialization in Control and Automation Engineering at [UFSC-FLN](https://www.linkedin.com/school/ufsc/posts/?feedView=all)
 - 📫 How to reach me: 
-
-
-  
-  <a href="https://www.instagram.com/vitorassis_c/" target="_blank"><img align="left" alt="Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
 <a href="https://www.linkedin.com/in/vitor-colares-8bb536203/" target="_blank"><img align="left" alt="LinkedIn" width="122px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
